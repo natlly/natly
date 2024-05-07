@@ -1,1 +1,1 @@
-# natly
+# naty
